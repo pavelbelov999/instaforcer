@@ -1,0 +1,2 @@
+requests==2.27.1
+python-time==0.3.0
